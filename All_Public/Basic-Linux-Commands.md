@@ -1,10 +1,12 @@
-# Basic Linux Commands
+# Basic Unix Commands
 
-1. **pwd** — When you first open the terminal, you are in the home directory of your user. To know which directory you are in, you can use the “pwd” command. It gives us the absolute path, which means the path that starts from the root. The root is the base of the Linux file system. It is denoted by a forward slash( / ). The user directory is usually something like "/home/username". 
+Geekyluicious terminal fun... It is time to **hack a cow**.
+
+1. **cd** — Use the "cd" command to go to a directory. For example, if you are in the home folder, and you want to go to the downloads folder, then you can type in **cd Downloads**. Remember, this command is case sensitive, and you have to type in the name of the folder exactly as it is. If you just type **cd** and press enter, it takes you to the home directory. To go back from a folder to the folder before that, you can type **cd ..** . The two dots represent back
 
 2. **ls** — Use the "Is" command to know what files are in the directory you are in. You can see all the hidden files by using the command “ls -a”
 
-3. **cd** — Use the "cd" command to go to a directory. For example, if you are in the home folder, and you want to go to the downloads folder, then you can type in **cd Downloads**. Remember, this command is case sensitive, and you have to type in the name of the folder exactly as it is. If you just type **cd** and press enter, it takes you to the home directory. To go back from a folder to the folder before that, you can type **cd ..** . The two dots represent back
+3. **pwd** — When you first open the terminal, you are in the home directory of your user. To know which directory you are in, you can use the “pwd” command. It gives us the absolute path, which means the path that starts from the root. The root is the base of the Linux file system. It is denoted by a forward slash( / ). The user directory is usually something like "/home/username". 
 
 4. **mkdir & rmdir** — Use the mkdir command when you need to create a folder or a directory. For example, if you want to make a directory called “DIY”, then you can type “mkdir DIY”. If you want to create a directory named “DIY Hacking”, then you can type “mkdir DIY\ Hacking”. Use rmdir to delete a directory. But rmdir can only be used to delete an empty directory. To delete a directory containing files, use **rm**
 
@@ -18,9 +20,7 @@
 
 9. **mv** — Use the mv command to move files through the command line. We can also use the mv command to rename a file. For example, if we want to rename the file “text” to “new”, we can use “mv text new”. It takes the two arguments, just like the cp command
 
-10. **locate** — The locate command is used to locate a file in a Linux system, just like the search command in Windows. This command is useful when you don't know where a file is saved or the actual name of the file. Using the -i argument with the command helps to ignore the case (it doesn't matter if it is uppercase or lowercase). So, if you want a file that has the word “hello”, it gives the list of all the files in your Linux system containing the word "hello" when you type in “locate -i hello”. If you remember two words, you can separate them using an asterisk. For example, to locate a file containing the words "hello" and "this", you can use the command “locate -i \*hello*this”
-
-11. **cowsay** -  Cowsay generates an ASCII picture of a cow saying something provided by the user. There  are  several  provided modes which change the appearance of the cow depending on its particular emotional/physical state.
+10. **cowsay** -  THE most usefull App to know. Cowsay generates an ASCII picture of a cow saying something provided by the user. There  are  several  provided modes which change the appearance of the cow depending on its particular emotional/physical state.
  - -b option initiates Borg mode
  - -d causes the cow to appear dead 
  - -g invokes greedy mode
