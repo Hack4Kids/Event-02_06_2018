@@ -9,9 +9,9 @@ All material (excluding codeclub content) is (c) Securitymadein.lu 2018 and lice
 
 ## Main Contributors for content:
 
-Matthieu Farcot (github: matthieu-farcot) - Employee @securitymadein.lu
-
 Basmah Bouni (github: basmahbouni99) - Intern @securitymadein.lu
+
+Matthieu Farcot (github: matthieu-farcot) - Employee @securitymadein.lu
 
 Joanna Gizewska (github: gizolka) - Employee @securitymadein.lu
 
