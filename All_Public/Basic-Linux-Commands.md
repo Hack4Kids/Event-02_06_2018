@@ -1,6 +1,6 @@
 # Basic Unix Commands
 
-Geekyluicious terminal fun... It is time to **hack a cow**.
+Geekylicious terminal fun... It is time to **hack a cow**.
 
 1. **cd** — Use the "cd" command to go to a directory. For example, if you are in the home folder, and you want to go to the downloads folder, then you can type in **cd Downloads**. Remember, this command is case sensitive, and you have to type in the name of the folder exactly as it is. If you just type **cd** and press enter, it takes you to the home directory. To go back from a folder to the folder before that, you can type **cd ..** . The two dots represent back
 
