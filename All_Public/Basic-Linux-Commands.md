@@ -1,8 +1,6 @@
 # Basic Unix Commands
 
 Geekylicious terminal fun... It is time to **hack a cow**.
-
-1.  
  _____
 < pwd >
  -----
@@ -11,7 +9,6 @@ Geekylicious terminal fun... It is time to **hack a cow**.
             (__)\       )\/\          **pwd** - Where am I in the system?
                 ||----w |
                 ||     ||
-2.
  ____
 < ls >
  ----
@@ -20,7 +17,6 @@ Geekylicious terminal fun... It is time to **hack a cow**.
             (__)\       )\/\          **ls** - What files are in the directory I am in?
                 ||----w |
                 ||     ||
-3. 
  ____
 < cd .. >
  ----
@@ -28,8 +24,7 @@ Geekylicious terminal fun... It is time to **hack a cow**.
          \  (==)\_______
             (__)\       )\/\          **cd** - Use the "cd" command to go to a given directory.          
                 ||----w |
-                ||     ||
-4. 
+                ||     ||      
  ___________
 < mkdir Cow >
  -----------
@@ -37,8 +32,6 @@ Geekylicious terminal fun... It is time to **hack a cow**.
          \  (@@)\_______
             (__)\       )\/\          **mkdir** - Create a directory, e.g. Cow.        
                 ||----w |
-                ||     ||
-5. 
  ______________________
 < touch littlecows.txt >
  ----------------------
@@ -46,8 +39,7 @@ Geekylicious terminal fun... It is time to **hack a cow**.
          \  ($$)\_______
             (__)\       )\/\          **touch** - Create a file, e.g. littlecows.txt.
                 ||----w |
-                ||     ||
-6.
+                ||     ||                
  ___________________
 < rm littlecows.txt >
  -------------------
@@ -56,7 +48,6 @@ Geekylicious terminal fun... It is time to **hack a cow**.
             (__)\       )\/\        **rm** - Remove a file or -r directory.
              U  ||----w |
                 ||     ||
-7. 
  ____________
 < man cowsay >
  ------------
@@ -65,7 +56,6 @@ Geekylicious terminal fun... It is time to **hack a cow**.
             (__)\       )\/\          **man** - Want to lnow more about "cowsay" or any other command?
                 ||----w |
                 ||     ||
-8. 
  ____________________________________
 ( cp /home/ryan/Cow/littlecows.txt )
 ( /home/ryan/Documents             )
@@ -75,7 +65,6 @@ Geekylicious terminal fun... It is time to **hack a cow**.
             (__)\       )\/\          **cp** - Want to copy a file? Where to copy it?
                 ||----w |
                 ||     ||
-9. 
  _________________________________
 < mv littlecows.txt largecows.txt >
  ---------------------------------
@@ -84,8 +73,7 @@ Geekylicious terminal fun... It is time to **hack a cow**.
             (__)\       )\/\          **mv** - Move the file to a destination or rename it!
                 ||----w |
                 ||     ||
-
-10. 
+                
  ___________________
 /  _______________  \                **cowsay** - THE most usefull command to know. Cowsay generates an ASCII picture
 | < cowsay -f tux > |                of a cow saying something provided by the user. There are several modes which           
