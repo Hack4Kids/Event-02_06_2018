@@ -1,0 +1,132 @@
+Basic Unix Commands
+
+Geekylicious terminal fun... It is time to **hack a cow**.
+ _________________________________
+< pwd - Where am I in the system? >
+ ---------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\          
+                ||----w |
+                ||     ||
+ ________________________________________
+/ ls - What files are in the directory I \
+\ am in?                                 /
+ ----------------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\         
+                ||----w |
+                ||     ||
+ _______________________________________
+/ cd - Use the command to go to a given \
+\ directory.                            /
+ ---------------------------------------
+
+        \   ^__^
+         \  (==)\_______
+            (__)\       )\/\          
+                ||----w |
+                ||     ||
+ ______________________________________
+/ mkdir Cow - Create a directory, e.g. \
+\ Cow.                                 /
+ --------------------------------------
+
+        \   ^__^
+         \  (@@)\_______
+            (__)\       )\/\         
+                ||----w |
+                ||     ||
+ _______________________________________
+/ touch littlecows.txt - Create a file, \
+\ e.g. littlecows.txt.                  /
+ ---------------------------------------
+        \   ^__^
+         \  ($$)\_______
+            (__)\       )\/\         
+                ||----w |
+                ||     ||
+ _________________________________________
+/ rm littlecows.txt - Remove a file or -r \
+\ directory.                              /
+ -----------------------------------------
+
+        \   ^__^
+         \  (xx)\_______
+            (__)\       )\/\         
+             U  ||----w |
+                ||     ||
+ ______________________________________
+/ man cowsay - Want to know more about \
+\ cowsay?                              /
+ --------------------------------------
+
+        \   ^__^
+         \  (??)\_______
+            (__)\       )\/\         
+                ||----w |
+                ||     ||
+ _________________________________________
+/ cp - Want to copy a file? Where to copy \
+\ it?                                     /
+ -----------------------------------------
+        o   ^__^
+         o  (oo)\_______
+            (__)\       )\/\         
+                ||----w |
+                ||     ||
+ _________________________________________
+/ mv littlecows.txt largecows.txt - Move  \
+\ the file to a destination or rename it! /
+ -----------------------------------------
+
+        \   ^__^
+         \  (--)\_______
+            (__)\       )\/\       
+                ||----w |
+                ||     ||
+
+ ___________________
+/  _______________  \            
+| < cowsay -f tux > |            
+|  ---------------  |             
+|    \              |            				     
+|     \             |            
+|         .--.      |            
+|        |o_o |     |            
+|        |:_/ |     |            
+|       //   \ \    |            
+|      (|     | )   |            
+|     /'\_   _/`\   |            
+|     \___)=(___/   |            
+\                   /               
+ -------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+
+cowsay 
+
+THE most usefull command to know. Cowsay generates an ASCII picture of a cow saying something provided by the user. 
+There  are  several  provided modes which change the appearance of the cow depending on its particular emotional/physical state:
+
+ - -b option initiates Borg mode
+ - -d causes the cow to appear dead 
+ - -g invokes greedy mode
+ - -p causes a state of paranoia to come over the cow 
+ - -t yields a tired cow
+ - -w is somewhat the opposite of -t and initiates wired mode 
+ - -y brings on the cow's youthful appearance
+ - -f option specifies a particular cow picture file to use (vader, sheep, turtle, tux)
+
+Exercises
+
+1. Using mkdir and touch commands, create a file within a folder.
+2. Using cp command, copy the created folder to the home directory.
+3. Using mv command, rename the created file.
+4. Using cowsay command, let the cow say its name!
+5. Using cowsay command, let the cow change its form and become a turtle or sheep!
+6. Using cowsay command and pipe |, let the cow think about a cow saying "Hello"  
