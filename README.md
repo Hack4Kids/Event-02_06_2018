@@ -59,6 +59,10 @@ Matthieu Farcot (github: matthieu-farcot) - Employee @securitymadein.lu
 
 Joanna Gizewska (github: gizolka) - Employee @securitymadein.lu
 
+Jean-Marie Kesch (github: JMKSMILE) - Employee @securitymadein.lu
+
+Raphael Vinot (github: Rafiot) - Employee @securitymadein.lu|CIRCL.lu
+
 CodeClub Luxembourg (coding part)
 
 Mega big special thanks to:
